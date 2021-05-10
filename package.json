@@ -23,7 +23,7 @@
     "enzyme-adapter-react-16": "^1.14.0",
     "joi-browser": "^13.4.0",
     "jwt-decode": "^2.2.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "materialize-css": "^1.0.0",
     "prop-types": "^15.7.2",
     "react-icons": "^3.7.0",
