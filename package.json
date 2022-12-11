@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "babel-polyfill": "^6.26.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-http-proxy": "^1.6.0",
     "razzle": "^3.0.0",
     "react": "^16.10.2",
